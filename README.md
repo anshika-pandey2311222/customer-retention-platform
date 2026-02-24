@@ -98,7 +98,7 @@ The objective of this project is to:
 
 The application is deployed using Streamlit Cloud.
 
-🔗 Live App: [Add Your Deployment Link Here]
+🔗 Live App: https://customer-retention-platform-predict.streamlit.app/
 
 ---
 
