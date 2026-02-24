@@ -102,22 +102,6 @@ The application is deployed using Streamlit Cloud.
 
 ---
 
-## 📂 Project Structure
-customer-retention-platform/
-│
-├── app.py
-├── train_model.py
-├── requirements.txt
-├── model.pkl
-├── scaler.pkl
-├── columns.pkl
-│
-└── pages/
-├── 1_Predict.py
-├── 2_Analytics.py
-├── 3_Why_Customers_Churn.py
-├── 4_Retention_Strategy.py
-├── 5_About_Project.py
 
 ## 🎓 Key Learning Outcomes
 
